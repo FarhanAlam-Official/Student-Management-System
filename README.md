@@ -87,7 +87,8 @@ Follow the steps below to set up the Student Management System on your local mac
 3. **Compile the C++ files**: Use your C++ compiler to compile the source code.
     For example, using GCC:
     ```bash
-    g++ main.cpp -o student_management_system
+    g++ Student_Management_System.cpp -o Student_Management_System.exe
+
     ```
 
 4. **Run the program**:
