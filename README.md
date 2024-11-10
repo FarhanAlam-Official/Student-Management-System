@@ -18,7 +18,7 @@
 
 ## Introduction
 
-The **Student Management System** is a C++ based application designed as a part of the Bachelor of Computer Application (BCA) 3rd semester project. This system aims to streamline the management of student records, courses, and financial data. The application provides two modules: the Administrator Module, which allows administrators to manage student data, and the Student Module, which gives students access to their academic details and personal information.
+The **Student Management System** is a C++ based application developed to assist educational institutions in efficiently managing student data. This system provides a user-friendly, menu-driven interface to handle key student information, including personal details, course enrollments, grades, and attendance records.
 
 The system facilitates efficient record-keeping and is ideal for educational institutions, making administrative tasks easier and improving overall productivity.
 
@@ -87,7 +87,8 @@ Follow the steps below to set up the Student Management System on your local mac
 3. **Compile the C++ files**: Use your C++ compiler to compile the source code.
     For example, using GCC:
     ```bash
-    g++ main.cpp -o student_management_system
+    g++ Student_Management_System.cpp -o Student_Management_System.exe
+
     ```
 
 4. **Run the program**:
